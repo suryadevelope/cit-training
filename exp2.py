@@ -1,8 +1,4 @@
 # Preprocessing: Feature selection, Missing values, Discretization, Outliers
-
-
-CODE:
-# exp2_preprocessing.py
 import pandas as pd
 import numpy as np
 from sklearn.impute import SimpleImputer
